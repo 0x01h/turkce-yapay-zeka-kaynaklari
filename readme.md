@@ -49,7 +49,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Derin Öğrenme 2](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-2.html) (Birol Kuyumcu)
 * [Derin Öğrenme 3](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-3.html) (Birol Kuyumcu)
 * [Derin Öğrenme , Yapay Zeka ve Bilgisayar Bilim](http://sayilarvekuramlar.blogspot.com/2015/12/bilgisayar-bilim-yapay-zeka.html) (Burak Bayramlı)
-* [Makine Öğrenimi Eğlencelidir](https://medium.com/t%C3%BCrkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)(Özgür Şahin)
+* [Makine Öğrenmesi Eğlencelidir](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenmesi-e%C4%9Flencelidir-b9d50aad3a62) (Özgür Şahin)
 * [Makine Öğrenmesi Nedir?](https://medium.com/türkiye/makine-öğrenmesi-nedir-20dee450b56e) (Halil İbrahim Şafak)
 * [Makine Öğrenmesi 101](https://veribilimcisi.com/makine-ogrenmesi/) (Seray Beşer)
 * [Derin Öğrenme 101](https://veribilimcisi.com/derin-ogrenme-101/) (Seray Beşer)
@@ -153,7 +153,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 #### Ekran kartı sürücüsü, Cuda ve Cudnn Kurulumu
 * [NVIDIA GPU Sürücüsü, CUDA ve cudNN Kurulum Rehberi](https://github.com/earcz/NVIDIA-GPU-Surucusu-ve-CUDA-Yukleme) (Ender Ayhan Rencüzoğulları)
 
-#### Microsoft Azure Notebook
+#### Azure Machine Learning Studio
+* [Azure ML Studio Kullanarak Bitcoin Fiyat Tahminlemesi Yapmak](https://medium.com/deep-learning-turkiye/azure-ml-studio-kullanarak-bitcoin-fiyat-tahminlemesi-yapmak-f5179f395811?source=user_profile---------3-------------------)
 
 ## BİLİMSEL MAKALELER
 ### Genel (Review/Survey)
